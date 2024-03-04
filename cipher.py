@@ -1,3 +1,7 @@
+### code created by chiefkiiith
+### 3rd December 2023
+### https://github.com/chiefkiiith
+### simple cipher platform 
 
 def caesar_cipher(text, shift, mode='encrypt'):
     result = ''
